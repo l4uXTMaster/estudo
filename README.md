@@ -2,3 +2,5 @@
 # estudo
 
 OI
+
+TURU BAUM?
